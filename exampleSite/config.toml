@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://kapbytes.com"
 languageCode = "en-us"
-title = "Hugo Winston"
+title = "KAPBYTES"
 themesDir = "../.."
 theme = "hugo-winston-theme"
 
