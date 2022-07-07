@@ -2,17 +2,12 @@
   "links": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "url": "https://twitter.com/KapBytes",
       "image": "images/social/twitter.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes",
-      "image": "images/social/github.svg"
-    },
-    {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "https://www.linkedin.com/company/kapbytes-technologies/",
       "image": "images/social/linkedin.svg"
     }
   ]
